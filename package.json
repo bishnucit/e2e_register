@@ -1,0 +1,14 @@
+{
+  "name": "e2e_page_testing",
+  "version": "1.0.0",
+  "description": "testing angular webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-reporters": "^2.2.1"
+  }
+}

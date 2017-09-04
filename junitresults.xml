@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="register user" timestamp="2017-09-04T14:07:38" hostname="localhost" time="6.621" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="register user" name="should register user" time="4.269" />
+  <testcase classname="register user" name="should not enter usname and try register" time="0.864" />
+  <testcase classname="register user" name="should not enter pass and try register" time="0.762" />
+  <testcase classname="register user" name="should not enter desc and try register" time="0.726" />
+ </testsuite>
+</testsuites>
